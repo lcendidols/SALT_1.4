@@ -5,7 +5,12 @@
 
 1. Considering the uncommon nature of mooney (or two-tone) images, we advise researchers to familiarize participants with this kind of stimuli before running the AST and the RST.
 
-2. The Psychtoolbox version of SALT was mostly created using Octave, so please contact matheus.hf.15@usp.br if any imcompatibility problems occur while running it on MATLAB.
+2. To obtain the scores for AAT and RAT, you have two options:
+    - Visit datcreativity.com/task
+    - Download python code at osf.io/bm5fd/
+
+
+3. The Psychtoolbox version of SALT was mostly created using Octave, so please contact matheus.hf.15@usp.br if any imcompatibility problems occur while running it on MATLAB.
 
 
 4. If the Psychtoolbox version crashes at the end of the task:
