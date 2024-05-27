@@ -3,7 +3,7 @@
 ## Instructions
 
 
-1. Considering the uncommon nature of mooney (or two-tone) images, we advise researchers to familiarize participants with this kind of stimuli before running the AST and the RST.
+1. Considering the uncommon nature of mooney (or two-tone) images, researchers should familiarize participants with this kind of stimuli before running the AST and the RST.
 
 2. To obtain the scores for AAT and RAT, you have two options:
     - Visit datcreativity.com/task
